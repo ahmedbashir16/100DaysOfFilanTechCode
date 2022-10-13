@@ -20,4 +20,4 @@ October 7th, 2022
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
 
-Follow me on Twitter: [Abdirahmaan](https://twitter.com/abdi_rahmaann)
+Follow me on Twitter: [Ahmed](https://twitter.com/ahmednajib66)
