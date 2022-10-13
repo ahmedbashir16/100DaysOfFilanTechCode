@@ -1,0 +1,7 @@
+
+
+p.one{
+    border-top-left-radius: 80px 50px;
+    -moz-border-radius-top-left: 80px 50px;
+    -webkit-border-radius-top-left: 80px 50px;
+}
